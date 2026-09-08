@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://manoranjan8170.github.io/sitemap.xml

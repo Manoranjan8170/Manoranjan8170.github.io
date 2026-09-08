@@ -1,0 +1,13 @@
+{
+  "name": "manoranjan-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio of Manoranjan Behera — Software Engineer | Full-Stack MERN",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["portfolio", "mern", "developer"],
+  "author": "Manoranjan Behera",
+  "license": "ISC"
+}
